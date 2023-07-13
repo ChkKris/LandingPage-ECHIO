@@ -1,4 +1,4 @@
-# LandingPage-ECHIO
+# [LandingPage-ECHIO](https://chkkris.github.io/LandingPage-ECHIO/)
 * Landing page
 * HTML, CSS, JS
 * Adaptive layout.
